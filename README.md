@@ -5,7 +5,7 @@ Always ***Open Minded*** for new tech!<br>
 Part time as a **Programmer**
 Full time as a **Dad**!
 
-> ***"thankful for those of you who can work from Home in the Countryside"***
+> ***"blessed for those of you who can work from Home in the Countryside"***
 
 ## Reach me on :
 - 🔭 <a href="https://okiww.github.io/">Portofolio</a>
