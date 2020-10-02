@@ -11,3 +11,4 @@ Full time as a **Dad**!
 - 🔭 <a href="https://okiww.github.io/">Portofolio</a>
 - 📫 <a href="https://www.linkedin.com/in/okky-muhamad-budiman-9b25b8b0/">LinkedIn</a>
 - 🐦 <a href="https://twitter.com/okiww">Twitter</a>
+- 📗 writing some tutorial about programming <a href="https://medium.com/@budimanokky93">Medium</a>
