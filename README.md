@@ -2,10 +2,6 @@
   ## Hi there 👋 I'm Okky 👨‍🔬
 </h1>
 
-<h4 align='center'>
-  Part time as a Programmer
-  Full time as a Dad!
-</h4>
 <p align='center'>
   <a href="https://www.linkedin.com/in/okky-muhamad-budiman-9b25b8b0/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
