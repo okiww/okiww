@@ -5,7 +5,6 @@
 <h4 align='center'>
   Part time as a Programmer
   Full time as a Dad!
-  > ***"blessed for those of you who can work from Home in the Countryside"***
 </h4>
 <p align='center'>
   <a href="https://www.linkedin.com/in/okky-muhamad-budiman-9b25b8b0/">
@@ -41,3 +40,4 @@
 
 
 ***My <a href="https://okiww.github.io/">📝 Portofolio</a>***
+> ***"blessed for those of you who can work from Home in the Countryside"***
