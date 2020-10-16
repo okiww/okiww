@@ -1,5 +1,5 @@
 <h1 align='center'>
-  ## Hi there 👋 I'm Okky 👨‍🔬
+  Hi there 👋 I'm Okky 👨‍🔬
 </h1>
 
 <p align='center'>
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-<h2 align='center'>Tech Stack</h2>
+<!--<h2 align='center'>Tech Stack</h2>
 <p align='center'>
   <img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src ="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -32,7 +32,7 @@
   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src ="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
   <img src ="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
-</p>
+</p> --!>
 
 
 ***My <a href="https://okiww.github.io/">📝 Portofolio</a>***<br>
