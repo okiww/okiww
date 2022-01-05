@@ -36,5 +36,5 @@
 
 
 ***My <a href="https://okiww.github.io/">📝 Portofolio</a>***<br>
-***Engineering Lead, Build Teams, Part time as a Programmer
+***Engineering Lead, Build Team, Part time as a Programmer
 Full time as a Dad!***
